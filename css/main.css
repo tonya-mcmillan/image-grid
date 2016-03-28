@@ -104,3 +104,27 @@ img:nth-child(5) {
   }
 
 }
+
+@media only screen and (min-width: 87em) {
+
+  img:nth-child(5) {
+    width: 33.3%;
+  }
+
+  img:nth-child(1) {
+    width: 66.6%;
+  }
+
+  img:nth-child(2) {
+    width: 33.333%;
+  }
+
+  img:nth-child(3) {
+    width: 33.333%;
+  }
+
+  img:nth-child(4) {
+    width: 33.333%;
+  }
+
+}
